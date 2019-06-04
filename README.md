@@ -10,3 +10,6 @@ for Windows:
 4) You will see shortcut on your desktop
 5) Double click in shortcut and  play
 6) Enjoy!
+
+# Version
+1.0.0  beta
