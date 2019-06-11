@@ -5,6 +5,6 @@ Electron app ~ Fun puzzle game
 # Support platform: 
 Windows 7, 8, 10 - (installer.exe) <br>
 Linux Arch  - pkgbuild ~ (installer.pkg.tar.xz) <br>
-Cross-platform software Linux - (AppImgae) / soon..
+Cross-platform software Linux - (AppImage) / soon..
 # Version
 1.0.0  beta
