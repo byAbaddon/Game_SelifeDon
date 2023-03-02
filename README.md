@@ -8,3 +8,10 @@ Linux Arch  - pkgbuild ~ (installer.pkg.tar.xz) <br>
 Cross-platform software Linux - (AppImage) / soon..
 # Version
 1.0.0  beta
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
