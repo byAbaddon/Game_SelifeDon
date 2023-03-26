@@ -9,7 +9,7 @@ Cross-platform software Linux - (AppImage) / soon..
 # Version
 1.0.0  beta
 ```diff
-- This is a beta test version. No screen resizing !!!
+- This is a beta test version. No screen resizing. Support oly big screen !!!
 ```
 
 ```diff
